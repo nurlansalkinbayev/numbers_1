@@ -36,6 +36,8 @@ line2 = " трали-вали"
 
 
 # print(cat_twice(line1, line2))
+
+# Находим площадь круга
 def area(radius):
     a = math.pi * radius ** 2
     return a
